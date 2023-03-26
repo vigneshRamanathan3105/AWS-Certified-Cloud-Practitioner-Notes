@@ -2,7 +2,7 @@
 
 - [EC2: Virtual Machines](#ec2-virtual-machines)
   - [What is Amazon EC2?](#what-is-amazon-ec2)
-    - [EC2 sizing & configuration options](#ec2-sizing--configuration-options)
+    - [EC2 sizing \& configuration options](#ec2-sizing--configuration-options)
     - [EC2 User Data](#ec2-user-data)
     - [EC2 Instance Types - Overview](#ec2-instance-types---overview)
       - [General Purpose](#general-purpose)
@@ -73,6 +73,8 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity i
   - [Memory Optimized](#memory-optimized)
   - [Storage Optimized](#storage-optimized)
   - Accelerated Computing
+  - Instance Features
+  - Measuring Instance Performace
 
 - AWS has the following naming convention: m5.2xlarge
 - m: instance class
